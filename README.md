@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/LeeHeonWoo1" target="_blank"><img src="https://img.shields.io/badge/python-black?style=python&logo=python&logoColor=white"/></a>
-<a href="https://github.com/LeeHeonWoo1" target="_blank"><img src="https://img.shields.io/badge/instagram-#E4405F?style=instagram&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/LeeHeonWoo1" target="_blank"><img src="https://img.shields.io/badge/python-black?style=plastic&logo=python&logoColor=white"/></a>
+<a href="https://github.com/LeeHeonWoo1" target="_blank"><img src="https://img.shields.io/badge/instagram-#E4405F?style=plastic&logo=instagram&logoColor=white"/></a>
