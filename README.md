@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/LeeHeonWoo1" target="_blank"><img src="https://img.shields.io/badge/python-black?style=python&logo=python&logoColor=black"/></a>
+<a href="https://github.com/LeeHeonWoo1" target="_blank"><img src="https://img.shields.io/badge/instagram-#E4405F?style=python&logo=python&logoColor=black"/></a>
