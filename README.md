@@ -22,5 +22,3 @@
   <img src="https://img.shields.io/badge/keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHeonWoo1&show_icons=true&theme=radical)
