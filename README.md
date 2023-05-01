@@ -6,8 +6,6 @@
 
 <h4 align=center>Tech Stack</h4>
 <h6 align=center>Main Stack</h6>
-<div style="text-align:center;">
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</div>
+<div style="text-align:center;"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHeonWoo1&show_icons=true&theme=radical)
