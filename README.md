@@ -8,6 +8,8 @@
 <h6 align=center>Main Stack</h6>
 <p align=center>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHeonWoo1&show_icons=true&theme=radical)
