@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Welcome%20to%20my%20github%20page!&fontSize=50)
 
-<h5 align=center>예비 신입개발자 이헌우입니다 !</h5>
-<h6 align=center>(__) 잘 부탁드립니다 ! (__)</h6>
+<h5 align=center> 신입개발자 이헌우입니다</h5>
+<h6 align=center> 열심히 하겠습니다 </h6>
 
 <h4 align=center>Tech Stack</h4>
 <h6 align=center>Main Stack</h6>
