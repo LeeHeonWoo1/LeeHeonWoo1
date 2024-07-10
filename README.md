@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Welcome%20to%20my%20github%20page!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%To%My%Page!&fontSize=40&fontAlign=50)
 
 <h5 align=center> 신입개발자 이헌우입니다</h5>
 
@@ -25,3 +25,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeeHeonWoo1&theme=vue&show_icons=true"/></a>
 </p>
+
