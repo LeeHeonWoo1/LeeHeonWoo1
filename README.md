@@ -26,3 +26,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LeeHeonWoo1&theme=vue&show_icons=true"/></a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=LeeHeonWoo1&row=1)](https://github.com/ryo-ma/github-profile-trophy)
