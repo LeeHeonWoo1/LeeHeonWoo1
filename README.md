@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%To%My%Page!&fontSize=40&fontAlign=50&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%20To%20My%20Page!&fontSize=40&fontAlign=50&height=250)
 
 <h5 align=center> 신입개발자 이헌우입니다</h5>
 
