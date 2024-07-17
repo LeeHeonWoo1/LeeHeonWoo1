@@ -21,9 +21,4 @@
   <img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
-<h6 align=center>Github Stats</h6>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeeHeonWoo1&theme=vue&show_icons=true"/></a>
-</p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=LeeHeonWoo1&row=1)](https://github.com/ryo-ma/github-profile-trophy)
